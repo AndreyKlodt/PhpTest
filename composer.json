@@ -1,0 +1,19 @@
+{
+    "name": "klodt/mm",
+    "description": "composer test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Klodt",
+            "email": "andreyklodt@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liw\\": ""
+        }
+    }
+}
